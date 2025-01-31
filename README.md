@@ -14,3 +14,8 @@ This article discusses one of the most famous books in software engineering, *Th
 I found this fascinating because it highlights the complexity of software development as both a technical and human endeavor. The article delves into the importance of communication, planning, and setting realistic expectations, which are critical skills for any software engineer.
 
 By understanding the principles discussed in this article, I hope to better appreciate the nuances of project management and avoid common pitfalls when working in teams.
+
+#### Comment
+
+Warren at Jan 30 20:45: After reading your brief intro about this book, I am gonna purchase it. 
+
